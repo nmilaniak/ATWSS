@@ -28,7 +28,7 @@ dir: ..
 		  <div class="col-lg-2">
 		    <div class="thumbnail">
 		      <img alt="" src="img/Mark.jpeg" width="150">
-		      <h3>Mark D&ouml;nszelmann</h3>
+		      <h3>Mark Dönszelmann</h3>
 		      <p>is architect of the software of ATWSS and designer of the Web Application. 
 		      He is in charge of keeping the software running.</p>
 		    </div>
@@ -58,7 +58,7 @@ dir: ..
 		      <img alt="" src="img/CERN.jpeg" width="90">
 		      <h3>CERN</h3>
 		      <p>is the European Organization for Nuclear Research, where high energy physics experiments take place. 
-		      ATWSS was developed partially at CERN.</p><br/>
+		      ATWSS was developed partially at CERN.</p><br>
 		      <a href="http://www.cern.ch">www.cern.ch</a>
 		    </div>
 		  </div>
@@ -68,7 +68,7 @@ dir: ..
 		      <img alt="" src="img/ATLAS.png" width="250">
 		      <h3>ATLAS</h3>
 		      <p>is one of the four experiments on the Large Hadron Collider (LHC). In ATLAS
-		      we use ATWSS to record intreventions needed in the cavern.</p><br/>
+		      we use ATWSS to record intreventions needed in the cavern.</p><br>
 		      <a href="http://cern.ch/atlas">cern.ch/atlas</a>
 		    </div>
 		  </div>
@@ -77,7 +77,7 @@ dir: ..
 		    <div class="thumbnail">
 		      <img alt="" src="img/Novocaptis.png" width="178">
 		      <h3>Novocaptis</h3>
-		      <p>built the camera system as well as all the video handling in hardware and software.</p><br/>
+		      <p>built the camera system as well as all the video handling in hardware and software.</p><br>
 		      <a href="http://www.novocaptis.com">www.novocaptis.com</a>
 		    </div>
 		  </div>
@@ -86,9 +86,8 @@ dir: ..
 		    <div class="thumbnail">
 		      <img alt="" src="img/Prisma.png" width="192">
 		      <h3>Prisma</h3>
-		      <p>build the PTU unit and the software for all the measurements.</p><br/>
+		      <p>build the PTU unit and the software for all the measurements.</p><br>
 		      <a href="http://www.prismaelectronics.eu">www.prismaelectronics.eu</a>
 		    </div>
 		  </div>
   </div>
-  
