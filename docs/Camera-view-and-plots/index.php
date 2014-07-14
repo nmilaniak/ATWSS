@@ -20,24 +20,24 @@ dir: ..
                     the worker with on-the-fly instructions on what he needs to do. This phase is
                     part of the <a href="http://www.cern.ch/edusafe">EDUSAFE</a> programme.</p>
                     
-                    <h3>Plotting/h3>
+                    <h3>Plotting/h3&gt;
                     <p>Radiation monitor, 
                     all shown worn by the worker in the picture. The three items communicate with
                     eachother and with a server, via wireless network, 
                     which allows a supervisor to monitor any measured
                     value (Radiation, CO<sub>2</sub>, O<sub>2</sub>, Temperature, ...) around the worker
                     but also the live videostream captured by the camera on his helmet.</p>
-				</div>
+				</h3></div>
 				<div class="col-md-7 column">
-                    <img src="../img/worker1.jpg" width="100%"></img>
+                    <img src="../img/worker1.jpg" width="100%">
 				</div>
 			</div>
 			<div class="row clearfix" style="margin-top: 25px;">
 				<div class="col-md-4 column">
-                    <img src="../img/equipment1.jpg" width="100%"></img>
+                    <img src="../img/equipment1.jpg" width="100%">
                 </div>
 				<div class="col-md-4 column">
-                    <img src="../img/electronics1.jpg" width="100%"></img>
+                    <img src="../img/electronics1.jpg" width="100%">
 				</div>
 				<div class="col-md-4 column">
                     <h3>Equipment</h3>
@@ -59,7 +59,7 @@ dir: ..
                     on individual worker communication boxes</p>
 				</div>
 				<div class="col-md-7 column">
-                    <img src="../img/gui1.jpg" width="100%"></img>
+                    <img src="../img/gui1.jpg" width="100%">
 				</div>
 			</div>
 		</div>
