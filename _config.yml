@@ -13,3 +13,4 @@ keep_files:   ['.git', '.svn', 'videos']
 
 port:         9001
 url:          http://localhost:9001
+baseurl:      /ATWSS
