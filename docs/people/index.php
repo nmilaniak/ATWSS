@@ -7,7 +7,7 @@ dir: ..
 ---
 
     <div class="row">
-		  <div class="col-lg-2">
+		  <div class="col-lg-3">
 		    <div class="thumbnail">
 		      <img alt="" src="img/Olga.jpeg" width="150">
 		      <h3>Olga Beltramello</h3>
@@ -16,7 +16,7 @@ dir: ..
 		    </div>
 		  </div>
 
-		  <div class="col-lg-2">
+		  <div class="col-lg-3">
 		    <div class="thumbnail">
 		      <img alt="" src="img/Alexandre.jpeg" width="150">
 		      <h3>Alexandre Dos Santos</h3>
@@ -41,14 +41,7 @@ dir: ..
 		      <p>is in charge of all the hardware on ATWSS. He also handles everything else we tend to forget...</p>
 		    </div>
 		  </div>
-		  
-		  <div class="col-lg-2">
-		    <div class="thumbnail">
-		      <img alt="" src="img/Christos.jpg" width="150">
-		  	  <h3>Christos Papachristou</h3>
-		  	  <p></p>
-		  	</div>
-		  </div>
+
     </div>
 
     <div class="row">
