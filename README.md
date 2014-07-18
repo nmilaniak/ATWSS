@@ -32,7 +32,7 @@ ruby -rubygems db-test.rb
 jekyll build
 (result in _site, _site/cern is protected)
 
-== deploy to CERN
+== deploy to CERN 
 mount smb://cerndataweb.cern.ch/W-ATWSS$ (inside cern)
 ./deploy.sh (copies _site to W-ATWSS)
 
